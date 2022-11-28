@@ -1,0 +1,17 @@
+.p{
+background: linear-gradient(to right, rgba(153, 38, 240, 0.95), rgba(209, 34, 227, 0.95));
+}
+.textwhite{
+    color: white;
+}
+hr.rounded {
+    border-top: 8px solid rgb(255, 255, 255);
+    border-radius: 5px;
+  }
+.box{
+    width: 33%;
+}
+.box1{
+    margin-left: 33%;
+    width: 33%;
+}
